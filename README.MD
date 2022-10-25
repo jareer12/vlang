@@ -19,3 +19,8 @@ fn main() {
     cpu_exhaust.run()
 }
 ```
+
+## Source Code
+
+- `./cpu_exhaust`
+- `./memory_hog`

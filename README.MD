@@ -19,3 +19,14 @@ fn main() {
     cpu_exhaust.run()
 }
 ```
+
+## UUID Generator
+
+```v
+import uuid
+
+fn main()  {
+	println(uuid.new())
+	println(uuid.new_upper())
+}
+```

@@ -1,9 +1,8 @@
 module main 
 
-import memory_hog
-import cpu_exhaust
+import uuid
 
 fn main()  {
-	memory_hog.run()
-	cpu_exhaust.run()
+	println(uuid.new())
+	println(uuid.new_upper())
 }

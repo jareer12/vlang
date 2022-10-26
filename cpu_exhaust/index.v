@@ -4,6 +4,7 @@ pub fn run() {
 	go exhaust_single()
 	go exhaust_single()
 	go exhaust_single()
+	go exhaust_single()
 
 	for true {
 

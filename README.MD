@@ -1,4 +1,4 @@
-# VLang Pranks
+# VLang Scripts
 
 ## Memory Hog
 
